@@ -40,6 +40,6 @@ Have improvements or ideas? Feel free to fork this repo and submit a pull reques
 This project is **MIT Licensed**. Feel free to use and modify it.
 
 ---
-🚀 *Built with curiosity and creativity by [Your Name](https://github.com/HiManShU-989)*
+🚀 *Built with curiosity and creativity by [Himanshu Singh](https://github.com/HiManShU-989)*
 
 
